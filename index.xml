@@ -10,6 +10,6 @@
     <link>https://thatorjohn.github.io/posts/first_post/</link>
     <pubDate>Sat, 26 Apr 2025 14:24:50 -0500</pubDate><author>
                         <name>John</name><uri>https://thatorjohn.github.io/authors/john/</uri><email>john.walley@gmail.com</email></author><guid>https://thatorjohn.github.io/posts/first_post/</guid>
-    <description><![CDATA[<p>Trying out <a href="https://gohugo.io" target="_blank" rel="noopener noreferrer">Hugo</a> with <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer">GitHub Pages</a>. The GH Pages docs walk you through using <a href="https://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a>, but I wasn&rsquo;t digging the problems I was running into getting it running on a Mac with M1 processor. Spending time getting a Ruby app running isn&rsquo;t going on my list of hobbies.</p>]]></description>
+    <description><![CDATA[<p>Trying out <a href="https://gohugo.io" target="_blank" rel="noopener noreferrer">Hugo</a> with <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer">GitHub Pages</a>. The GH Pages docs walk you through using <a href="https://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a>, but I wasn&rsquo;t digging the problems I was running into getting it running on a Mac with M1 processor. Spending time getting a Ruby app running isn&rsquo;t going on my list of hobbies (at least today).</p>]]></description>
 </item></channel>
 </rss>
