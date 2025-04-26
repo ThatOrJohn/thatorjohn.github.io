@@ -8,4 +8,4 @@ To build the site `hugo`
 
 Add a post `hugo new posts/first_post.md`
 
-Script to push `public` dir to `gh-pages` branch ./deploy.sh`
+Script to push `public` dir to `gh-pages` branch `./deploy.sh`
